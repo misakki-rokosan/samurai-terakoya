@@ -1,0 +1,60 @@
+/* この中にコメントを書きます */
+/* idをセレクタに指定するときは先頭に「#（ハッシュ）」をつけます */
+#first-heading {
+  color: red;
+}
+
+
+body {
+  width: 1000px;
+  background-color: #fcfbf1;
+  color: #000000;
+  /* 水平方向の中央揃え　　効かない */
+  margin: auto;
+  }
+
+
+
+/* classをセレクタに指定するときは先頭に「.（ドット）」をつけます */
+.back-screen-white {
+  width: 1400px;
+  background-color: #ffffff;
+}
+
+.back-screen-blue {
+  background-color: #ebf6f5;
+}
+
+.back-screen-orange {
+  background-color: #fffde5;
+}
+
+.back-screen-pink {
+  background-color: #fdeeed;
+}
+
+.back-screen-emerald {
+  width: 1400px;
+  background-color: #7fc4ce;
+}
+
+
+.back-screen-yellow1 {
+  width: 1400px;
+  background-color: #fff262;
+}
+
+.back-screen-orange2 {
+  width: 1400px;
+  background-color: #d6732f;
+}
+
+.back-screen-brown2 {
+  width: 1400px;
+  background-color: #fcfbf1;
+}
+
+
+
+
+
