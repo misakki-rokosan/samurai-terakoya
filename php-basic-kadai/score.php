@@ -19,7 +19,11 @@
        $score8 = '95';
        $score9 = '30';
        $score10 = '60';
-       echo ($score1 + $score2 + $score3 + $score4 + $score5 + $score6 + $score7 + $score8 + $score9 + $score10) / 10 ;
+
+       
+       echo '合計点　' . $score1 + $score2 + $score3 + $score4 + $score5 + $score6 + $score7 + $score8 + $score9 + $score10 ;
+       echo '<br>';
+       echo '平均点　' . ($score1 + $score2 + $score3 + $score4 + $score5 + $score6 + $score7 + $score8 + $score9 + $score10) / 10 ;
        ?>
 
 
